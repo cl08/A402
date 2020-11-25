@@ -1,5 +1,5 @@
 ﻿
-# <img src="./meeting log/res/logo.png">  
+# <img src="./meeting log/res/logo.png">
 ![Alt text](https://img.shields.io/badge/data-Web-orange)<br>
 ![Alt text](https://img.shields.io/badge/Stack-Vue.js-green) ![Alt text](https://img.shields.io/badge/Stack-Sass-pink) ![Alt text](https://img.shields.io/badge/Stack-ElementUI-skyblue)<br>
 ![Alt text](https://img.shields.io/badge/Stack-SpringBoot-green) ![Alt text](https://img.shields.io/badge/Stack-Mybatis-blue) ![Alt text](https://img.shields.io/badge/Stack-Docker-blue) ![Alt text](https://img.shields.io/badge/Stack-MariaDB-blue)
@@ -22,7 +22,7 @@ SSAFY 3기 공통 프로젝트
 - 여러개의 템플릿 중 개인의 취향에 맞게 포트폴리오를 선택해 저장할 수 있습니다.
   
 ## 주요기능 및 스크린샷 
-![image](./meeting log/res/devlog.gif)
+<img src="./meeting log/res/devlog.gif">
 
 
 <h4>회원 관리</h4>
@@ -75,7 +75,7 @@ SSAFY 3기 공통 프로젝트
 <img src="./meeting log/res/running.png" width="16" height="16"> 차윤석 (백엔드, 서버) (c9boom7@naver.com)<br>
 
 ## 개발 일정
-![image](./meeting log/res/schedule.JPG)
+<img src="./meeting log/res/schedule.JPG">
 
 ## 실행 환경(권장)
 
