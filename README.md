@@ -22,7 +22,7 @@ SSAFY 3기 공통 프로젝트
 - 여러개의 템플릿 중 개인의 취향에 맞게 포트폴리오를 선택해 저장할 수 있습니다.
   
 ## 주요기능 및 스크린샷 
-![image](./meeting log/res/devlog.gif)
+<img src="./meeting log/res/devlog.gif">
 
 
 <h4>회원 관리</h4>
