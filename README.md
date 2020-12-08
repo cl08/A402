@@ -75,7 +75,7 @@ SSAFY 3기 공통 프로젝트
 <img src="./meeting log/res/running.png" width="16" height="16"> 차윤석 (백엔드, 서버) (c9boom7@naver.com)<br>
 
 ## 개발 일정
-![image](./meeting log/res/schedule.JPG)
+<img src="./meeting log/res/schedule.JPG">
 
 ## 실행 환경(권장)
 
