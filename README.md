@@ -23,7 +23,6 @@ SSAFY 3기 공통 프로젝트
   
 ## 주요기능 및 스크린샷
 <img src="./meeting log/res/devlog.gif">
-
 시연영상 : https://www.youtube.com/watch?v=Bou3S74M_Ww
 
 <h4>회원 관리</h4>
