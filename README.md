@@ -24,9 +24,6 @@ SSAFY 3기 공통 프로젝트
 ## 주요기능 및 스크린샷 
 <img src="./meeting log/res/devlog.gif">
 
-## 시연 영상
-https://www.youtube.com/watch?v=Bou3S74M_Ww
-
 <h4>회원 관리</h4>
 
 - 기본 회원가입 이외에 카카오 및 네이버 계정을 이용해 여러 서비스를 이용할 수 있습니다.<br>
@@ -45,6 +42,8 @@ https://www.youtube.com/watch?v=Bou3S74M_Ww
 - 여러가지 템플릿 중 마음에 드는 템플릿을 선택하여 자신의 개성을 표현해보세요.<br>
 - PDF 저장 또는 링크를 공유하여 취업 시 간편하게 제출할 수 있습니다.
 <br>
+
+### 시연영상 : https://www.youtube.com/watch?v=Bou3S74M_Ww
 
 ## 실행 방법
 
